@@ -1,10 +1,6 @@
 # Sign Up for Amazon S3<a name="SigningUpforS3"></a>
 
-
-
-![\[Image NOT FOUND\]](http://docs.aws.amazon.com/AmazonS3/latest/gsg/)![\[Image NOT FOUND\]](http://docs.aws.amazon.com/AmazonS3/latest/gsg/)
-
-To use Amazon S3, you need an AWS account\. If you don't already have one, you'll be prompted to create one when you sign up for Amazon S3\. You will not be charged for Amazon S3 until you use it\. For information on Amazon S3 features, pricing, and to see the FAQ, go to the [Amazon S3 product page](https://aws.amazon.com/s3/)\.
+To use Amazon S3, you need an AWS account\. If you don't already have one, you'll be prompted to create one when you sign up for Amazon S3\. You are not charged for Amazon S3 until you use it\. For information about Amazon S3 features, pricing, and frequently asked questions, see the [Amazon S3 product page](https://aws.amazon.com/s3/)\.
 
 **To sign up for Amazon S3**
 
@@ -12,5 +8,6 @@ To use Amazon S3, you need an AWS account\. If you don't already have one, you'l
 
 1. Follow the on\-screen instructions\.
 
-AWS will notify you by email when your account is active and available for you to use\.
+AWS notifies you by email when your account is active and available for you to use\.
 
+To start using Amazon S3, see [Create a Bucket](CreatingABucket.md)\.
