@@ -19,7 +19,7 @@ You are not charged for creating a bucket\. You are charged only for storing obj
    + After you create the bucket, you cannot change the name, so choose wisely\. 
    + Choose a bucket name that reflects the objects in the bucket because the bucket name is visible in the URL that points to the objects that you're going to put in your bucket\.
 
-   For information about naming buckets, see [ Rules for Bucket Naming](https://docs.aws.amazon.com/AmazonS3/latest/dev//BucketRestrictions.html#bucketnamingrules) in the *Amazon Simple Storage Service Developer Guide*\. 
+   For information about naming buckets, see [ Rules for Bucket Naming](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html#bucketnamingrules) in the *Amazon Simple Storage Service Developer Guide*\. 
 
 1. For **Region**, choose US West \(Oregon\) as the Region where you want the bucket to reside\.  
 
