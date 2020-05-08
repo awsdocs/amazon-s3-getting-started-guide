@@ -1,11 +1,11 @@
-# Considerations Going Forward<a name="s3-gsg-ConsiderationsGoingForward"></a>
+# Considerations going forward<a name="s3-gsg-ConsiderationsGoingForward"></a>
 
 This section introduces you to topics you should consider before launching your own Amazon S3 product\.
 
 **Topics**
 + [AWS Account and Security Credentials](#iam-about-shared)
 + [Security](#s3-gsg-Security)
-+ [AWS Integration](#s3-gsg-AWSIntegration)
++ [AWS integration](#s3-gsg-AWSIntegration)
 + [Pricing](#s3-gsg-Pricing)
 
 ## AWS Account and Security Credentials<a name="iam-about-shared"></a>
@@ -20,7 +20,7 @@ Amazon S3 provides authentication mechanisms to secure data stored in Amazon S3 
 
 You can also encrypt your data before uploading it to Amazon S3\.
 
-## AWS Integration<a name="s3-gsg-AWSIntegration"></a>
+## AWS integration<a name="s3-gsg-AWSIntegration"></a>
 
 You can use Amazon S3 alone or in concert with one or more other Amazon products\. The following are the most common products used with Amazon S3:
 + [Amazon EC2](https://aws.amazon.com/ec2/)

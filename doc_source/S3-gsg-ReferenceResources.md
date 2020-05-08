@@ -1,4 +1,4 @@
-# Reference Resources<a name="S3-gsg-ReferenceResources"></a>
+# Reference resources<a name="S3-gsg-ReferenceResources"></a>
 
 The following list shows additional resources that you can use to further your understanding of Amazon S3\.
 + The [Amazon Simple Storage Service Console User Guide](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/) describes all of the AWS Management Console functions related to Amazon S3\.

@@ -1,4 +1,4 @@
-# Setting Up Amazon S3<a name="SigningUpforS3"></a>
+# Setting up Amazon S3<a name="SigningUpforS3"></a>
 
 When you sign up for AWS, your AWS account is automatically signed up for all services in AWS, including Amazon S3\. You are charged only for the services that you use\.
 
@@ -7,11 +7,11 @@ With Amazon S3, you pay only for what you use\. For more information about Amazo
 To get started with Amazon S3, follow these steps:
 
 **Topics**
-+ [Sign Up for AWS](#sign-up-for-aws-gsg)
-+ [Create an IAM User](#create-an-iam-user-gsg)
-+ [Sign In as an IAM User](#signing-in-iam-user-gsg)
++ [Sign up for AWS](#sign-up-for-aws-gsg)
++ [Create an IAM user](#create-an-iam-user-gsg)
++ [Sign in as an IAM user](#signing-in-iam-user-gsg)
 
-## Sign Up for AWS<a name="sign-up-for-aws-gsg"></a>
+## Sign up for AWS<a name="sign-up-for-aws-gsg"></a>
 
 If you do not have an AWS account, complete the following steps to create one\.
 
@@ -25,7 +25,7 @@ If you do not have an AWS account, complete the following steps to create one\.
 
 AWS sends you a confirmation email after the sign\-up process is complete\. At any time, you can view your current account activity and manage your account by going to [https://aws\.amazon\.com/](https://aws.amazon.com/) and choosing **My Account**\.
 
-## Create an IAM User<a name="create-an-iam-user-gsg"></a>
+## Create an IAM user<a name="create-an-iam-user-gsg"></a>
 
 When you first create an Amazon Web Services \(AWS\) account, you begin with a single sign\-in identity\. That identity has complete access to all AWS services and resources in the account\. This identity is called the AWS account *root user*\. When you sign in, enter the email address and password that you used to create the account\.
 
@@ -72,7 +72,7 @@ You must activate IAM user and role access to Billing before you can use the `Ad
 
 You can use this same process to create more groups and users and to give your users access to your AWS account resources\. To learn about using policies that restrict user permissions to specific AWS resources, see [Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/access.html) and [Example Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)\.
 
-## Sign In as an IAM User<a name="signing-in-iam-user-gsg"></a>
+## Sign in as an IAM user<a name="signing-in-iam-user-gsg"></a>
 
 After you create an IAM user, you can sign in to AWS with your IAM user name and password\.
 

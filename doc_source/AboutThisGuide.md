@@ -1,4 +1,4 @@
-# About This Guide<a name="AboutThisGuide"></a>
+# About this guide<a name="AboutThisGuide"></a>
 
 This is the *Amazon Simple Storage Service Getting Started Guide*\.
 

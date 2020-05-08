@@ -1,4 +1,4 @@
-# Development Resources<a name="S3-gsg-DevelopmentResources"></a>
+# Development resources<a name="S3-gsg-DevelopmentResources"></a>
 
 To help you build applications using the language of your choice, we provide the following resources:
 + **Sample Code and Libraries** – The AWS Developer Center has sample code and libraries written especially for Amazon S3\.

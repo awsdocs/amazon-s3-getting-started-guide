@@ -1,4 +1,4 @@
-# Uploading an Object to a Bucket<a name="PuttingAnObjectInABucket"></a>
+# Uploading an object to a bucket<a name="PuttingAnObjectInABucket"></a>
 
 Now that you've created a bucket, you're ready to upload an object to it\. An object can be any kind of file: a text file, a photo, a video, and so on\. 
 
@@ -16,4 +16,4 @@ Now that you've created a bucket, you're ready to upload an object to it\. An ob
 
 You've successfully uploaded an object to your bucket\. 
 
-To view your object, see [Viewing an Object](OpeningAnObject.md)\.
+To view your object, see [Viewing an object](OpeningAnObject.md)\.

@@ -1,4 +1,4 @@
-# Advanced Amazon S3 Features<a name="S3-gsg-AdvancedAmazonS3Features"></a>
+# Advanced Amazon S3 features<a name="S3-gsg-AdvancedAmazonS3Features"></a>
 
 The examples in this guide show how to accomplish the basic tasks of creating a bucket, uploading and downloading data to and from it, and moving and deleting the data\. The following table summarizes some of the most common advanced functionality offered by Amazon S3\. Note that some advanced functionality is not available in the AWS Management Console and requires that you use the Amazon S3 API\. All advanced functionality and how to use it is described in the [Amazon Simple Storage Service Developer Guide](https://docs.aws.amazon.com/AmazonS3/latest/dev/)\.
 

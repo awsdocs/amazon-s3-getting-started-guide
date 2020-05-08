@@ -1,4 +1,4 @@
-# Creating a Bucket<a name="CreatingABucket"></a>
+# Creating a bucket<a name="CreatingABucket"></a>
 
 Now that you've signed up for AWS you're ready to create a bucket using the AWS Management Console\. Every object in Amazon S3 is stored in a bucket\. Before you can store data in Amazon S3, you must create a bucket\. 
 
@@ -37,4 +37,4 @@ Avoid including sensitive information, such as account numbers, in the bucket na
 
 You've created a bucket in Amazon S3\. 
 
-To add an object to your bucket, see [Uploading an Object to a Bucket](PuttingAnObjectInABucket.md)\.
+To add an object to your bucket, see [Uploading an object to a bucket](PuttingAnObjectInABucket.md)\.

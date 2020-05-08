@@ -1,43 +1,37 @@
-# Copying an Object<a name="CopyingAnObject"></a>
+# Copying an object<a name="CopyingAnObject"></a>
 
-You've already added an object to a bucket and downloaded the object\. Now, you create a folder and copy the object and paste it into the folder\.
+You've already added an object to a bucket and downloaded the object\. Now, you can copy the object\. You can copy an object to your source bucket or to a unique destination bucket\. In this tutorial, you create a new bucket and copy your object to it\.
 
-**To copy an object**
+**To copy an object to a destination bucket**
 
-1. In the **Bucket** list, choose the name of the bucket that you created\.
+1. In the **Buckets** list, choose **Create bucket**\.
 
-1. Choose **Create Folder**\.
+1. In **Bucket name**, enter your bucket name\.
 
-1. Configure your folder:
+1. Choose your Region, and choose **Create bucket**\.
 
-   1. Enter a folder name \(for example, **favorite\-pics**\)\.
+1. In the **Buckets** list, choose the name of destination bucket that you just created\.
 
-   1. For the folder encryption setting, choose **None**\.
+1. Select the check box beside the object that you want to copy\.
 
-   1. Choose **Save**\.
+1. Choose **Actions**, and choose **Copy**\.
 
-   On the **Overview** tab, your folder appears in the **Name** list\.
-
-1. In the **Name** list, select the check box for the object that you want to copy\.
-
-1. Choose **Actions**, and then choose **Copy**\.
-
-1. In the **Name** list, choose the name of your copy destination bucket\.
-
-   The **Name** list updates, and you see the folders in your destination bucket\.
-
-1. Select the destination folder, for example, **favorite\-pics**\.
+1. Choose the destination bucket\.
 
 1. Choose **Choose**\.
 
-1. Under **Review**, confirm the copy details\.
+1. Under **Review**, confirm the copy details, and choose **Copy**\.
 
-1. To copy your file, choose **Copy**\.
+   Amazon S3 copies your object to the destination bucket\.
 
-   The object appears in the folder where you pasted it\.
+1. To view your copied object in the destination bucket:
 
-1. On the **Overview** tab, in the **Name** list, choose your destination folder\.
+   1. Expand the left navigation pane\.
 
-   In the destination folder, you see the copied file\.
+   1. Choose **Buckets**\.
 
-To delete an object and a bucket in Amazon S3, see [Deleting Objects and Buckets](DeletingAnObjectandBucket.md)\.
+   1. In the **Buckets** list, choose the destination bucket name\.
+
+      On the **Overview** tab, you see the copied object\.
+
+To delete an object and a bucket in Amazon S3, see [Deleting objects and buckets](DeletingAnObjectandBucket.md)\.
