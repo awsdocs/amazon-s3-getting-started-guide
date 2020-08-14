@@ -1,4 +1,4 @@
-# Copying an object<a name="CopyingAnObject"></a>
+# Copying an object to a folder<a name="CopyingAnObject"></a>
 
 You've already added an object to a bucket and downloaded the object\. Now, you can copy the object\. You can copy an object to a location within a bucket or to a location in another bucket\. In this tutorial, you create a folder and copy your object to it\.
 

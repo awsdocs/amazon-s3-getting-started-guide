@@ -1,4 +1,4 @@
-# Amazon Simple Storage Service Getting started guide
+# Amazon Simple Storage Service Getting Started Guide
 
 -----
 *****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
@@ -18,8 +18,8 @@ Amazon's trademarks and trade dress may not be used in
 + [Setting up Amazon S3](SigningUpforS3.md)
 + [Creating a bucket](CreatingABucket.md)
 + [Uploading an object to a bucket](PuttingAnObjectInABucket.md)
-+ [Viewing an object](OpeningAnObject.md)
-+ [Copying an object](CopyingAnObject.md)
++ [Accessing an object](OpeningAnObject.md)
++ [Copying an object to a folder](CopyingAnObject.md)
 + [Deleting objects and buckets](DeletingAnObjectandBucket.md)
 + [Where do I go from here?](ImplementingS3.md)
    + [Common use scenarios](S3-gsg-CommonUseScenarios.md)

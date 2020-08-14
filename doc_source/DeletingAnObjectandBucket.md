@@ -37,7 +37,7 @@ If you want to choose which objects you delete without emptying all the objects 
 
 1. Choose **Actions**, and then choose **Delete**\.
 
-1. In the **Delete objects** dialog box, verify that the name of the object, and choose **Delete**\.
+1. In the **Delete objects** dialog box, verify the name of the object, and choose **Delete**\.
 
 ## Deleting your bucket<a name="clean-up-delete-bucket"></a>
 

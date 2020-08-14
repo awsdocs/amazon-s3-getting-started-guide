@@ -10,8 +10,8 @@ This guide introduces you to Amazon S3 and explains how to use the AWS Managemen
 + [Setting up Amazon S3](SigningUpforS3.md)
 + [Creating a bucket](CreatingABucket.md)
 + [Uploading an object to a bucket](PuttingAnObjectInABucket.md)
-+ [Viewing an object](OpeningAnObject.md)
-+ [Copying an object](CopyingAnObject.md)
++ [Accessing an object](OpeningAnObject.md)
++ [Copying an object to a folder](CopyingAnObject.md)
 + [Deleting objects and buckets](DeletingAnObjectandBucket.md)
 
 For information about Amazon S3 features, pricing, and frequently asked questions, see the [Amazon S3 product page](https://aws.amazon.com/s3/)\.

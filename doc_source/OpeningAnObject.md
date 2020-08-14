@@ -1,4 +1,4 @@
-# Viewing an object<a name="OpeningAnObject"></a>
+# Accessing an object<a name="OpeningAnObject"></a>
 
 Now that you've uploaded an object to a bucket, you can view information about your object and download the object to your local computer\.
 
@@ -18,4 +18,4 @@ Now that you've uploaded an object to a bucket, you can view information about y
 
 You've successfully downloaded your object\.
 
-To copy and paste your object within Amazon S3, see [Copying an object](CopyingAnObject.md)\.
+To copy and paste your object within Amazon S3, see [Copying an object to a folder](CopyingAnObject.md)\.
