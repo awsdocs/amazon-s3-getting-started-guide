@@ -78,7 +78,7 @@ After you create an IAM user, you can sign in to AWS with your IAM user name and
 
 Before you sign in as an IAM user, you can verify the sign\-in link for IAM users in the IAM console\. On the IAM Dashboard, under **IAM users sign\-in link**, you can see the sign\-in link for your AWS account\. The URL for your sign\-in link contains your AWS account ID without dashes \(‐\)\. 
 
-If you don't want the URL for your sign\-in link to contain your AWS account ID, you can create an account alias\. For more information, see [Creating, Deleting, and Listing and AWS Account Alias](https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html#CreateAccountAlias) in the *IAM User Guide*\.
+If you don't want the URL for your sign\-in link to contain your AWS account ID, you can create an account alias\. For more information, see [Creating, Deleting, and Listing an AWS Account Alias](https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html#CreateAccountAlias) in the *IAM User Guide*\.
 
 **To sign in as an AWS user**
 
