@@ -12,7 +12,7 @@ Now that you've uploaded an object to a bucket, you can view information about y
 
 1. On the **Overview** tab, review information about your object\.
 
-1. To view the object in your browser, choose **Open**\.
+1. To view the object in your browser, choose **Open**\. Some types of objects cannot be viewed in your browser\. In this case, the object will be downloaded to your computer instead\.
 
 1. To download the object to your computer, choose **Download**\.
 

@@ -3,12 +3,12 @@
 This section introduces you to topics you should consider before launching your own Amazon S3 product\.
 
 **Topics**
-+ [AWS Account and Security Credentials](#iam-about-shared)
++ [AWS account and security credentials](#iam-about-shared)
 + [Security](#s3-gsg-Security)
 + [AWS integration](#s3-gsg-AWSIntegration)
 + [Pricing](#s3-gsg-Pricing)
 
-## AWS Account and Security Credentials<a name="iam-about-shared"></a>
+## AWS account and security credentials<a name="iam-about-shared"></a>
 
 When you signed up for the service, you created an AWS account using an email address and password\. Those are your AWS account root user credentials\. As a best practice, you should not use your root user credentials to access AWS\. Nor should you give your credentials to anyone else\. Instead, create individual users for those who need access to your AWS account\. First, create an AWS Identity and Access Management \(IAM\) administrator user for yourself and use it for your daily work\. For details, see [Creating Your First IAM Admin User and Group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html) in the *IAM User Guide*\. Then create additional IAM users for other people\. For details, see [Creating Your First IAM Delegated User and Group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-delegated-user.html) in the *IAM User Guide*\.
 

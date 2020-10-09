@@ -11,5 +11,6 @@ The following topics explain various ways in which you can gain a deeper underst
 + [Common use scenarios](S3-gsg-CommonUseScenarios.md)
 + [Considerations going forward](s3-gsg-ConsiderationsGoingForward.md)
 + [Advanced Amazon S3 features](S3-gsg-AdvancedAmazonS3Features.md)
++ [Access control best practices](access-control-best-practices.md)
 + [Development resources](S3-gsg-DevelopmentResources.md)
 + [Reference resources](S3-gsg-ReferenceResources.md)

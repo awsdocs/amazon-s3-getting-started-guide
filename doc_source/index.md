@@ -25,6 +25,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Common use scenarios](S3-gsg-CommonUseScenarios.md)
    + [Considerations going forward](s3-gsg-ConsiderationsGoingForward.md)
    + [Advanced Amazon S3 features](S3-gsg-AdvancedAmazonS3Features.md)
+   + [Access control best practices](access-control-best-practices.md)
    + [Development resources](S3-gsg-DevelopmentResources.md)
    + [Reference resources](S3-gsg-ReferenceResources.md)
 + [About this guide](AboutThisGuide.md)
