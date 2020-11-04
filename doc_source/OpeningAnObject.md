@@ -1,4 +1,4 @@
-# Accessing an object<a name="OpeningAnObject"></a>
+# Downloading an object<a name="OpeningAnObject"></a>
 
 Now that you've uploaded an object to a bucket, you can view information about your object and download the object to your local computer\.
 
@@ -6,13 +6,11 @@ Now that you've uploaded an object to a bucket, you can view information about y
 
 1. In the **Buckets** list, choose the name of the bucket that you created\.
 
-1. In the **Name** list, choose the name of the object that you uploaded\.
+1. In the **Objects** list, choose the name of the object that you uploaded\.
 
-   For your selected object, the object overview panel opens\.
+   The object overview opens\.
 
 1. On the **Overview** tab, review information about your object\.
-
-1. To view the object in your browser, choose **Open**\. Some types of objects cannot be viewed in your browser\. In this case, the object will be downloaded to your computer instead\.
 
 1. To download the object to your computer, choose **Download**\.
 
