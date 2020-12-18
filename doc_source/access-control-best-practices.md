@@ -79,6 +79,8 @@ You can share resources with a limited group of people using IAM groups and user
 
 For more information, see [ Allowing an IAM User Access to One of Your Buckets](https://docs.aws.amazon.com/AmazonS3/latest/dev/example-policies-s3.html#iam-policy-ex0) in the *Amazon Simple Storage Service Developer Guide*\.
 
+
+
 **Access control lists**  
 As a general rule, we recommend that you use S3 bucket policies or IAM policies for access control\. Amazon S3 access control lists \(ACLs\) are a legacy access control mechanism that predates IAM\. If you already use S3 ACLs and you find them sufficient, there is no need to change\. However, certain access control scenarios require the use of ACLs\. For example, when a bucket owner wants to grant permission to objects, but not all objects are owned by the bucket owner, the object owner must first grant permission to the bucket owner\. This is done using an object ACL\.
 

@@ -2,6 +2,8 @@
 
 Now that you've created a bucket, you're ready to upload an object to it\. An object can be any kind of file: a text file, a photo, a video, and so on\. 
 
+
+
 **To upload an object to a bucket**
 
 1. In the **Buckets** list, choose the name of the bucket that you want to upload your object to\.

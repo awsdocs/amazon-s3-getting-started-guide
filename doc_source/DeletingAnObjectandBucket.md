@@ -15,6 +15,8 @@ If you plan to delete your bucket, you must first empty your bucket, which delet
 
 **To empty a bucket**
 
+
+
 1. In the **Buckets** list, select the bucket that you want to empty, and then choose **Empty**\.
 
 1. To confirm that you want to empty the bucket and delete all the objects in it, in **Empty bucket**, enter the name of the bucket\.
